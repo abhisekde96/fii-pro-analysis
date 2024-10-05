@@ -1,0 +1,2 @@
+implemented pool processing
+implemented cache memory
